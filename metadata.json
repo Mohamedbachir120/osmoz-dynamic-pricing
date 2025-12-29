@@ -1,0 +1,7 @@
+{
+  "name": "Osmoz Pricing Builder",
+  "description": "An interactive modular pricing platform for building technical and financial proposals for real estate promotion companies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
